@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.79396657.css",
+    "main.js": "/portfolio/static/js/main.9134b360.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/covidchat.png": "/portfolio/static/media/covidchat.b29070e7283575781022.png",
+    "static/media/dynamic-gallery.png": "/portfolio/static/media/dynamic-gallery.d09d626d1c6a6fa18434.png",
+    "static/media/pro3.svg": "/portfolio/static/media/pro3.b035a8e6ef9b1f56c77ae0997c765f8c.svg",
+    "static/media/SQL-Database.png": "/portfolio/static/media/SQL-Database.9555f518cd2f3070bdb5.png",
+    "static/media/chatapp.png": "/portfolio/static/media/chatapp.53db5a668e1e6da031ca.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.646d7576b9efeb092eff.pdf",
+    "static/media/bg22.webp": "/portfolio/static/media/bg22.17418a266b55c19c01b2.webp",
+    "static/media/jupyter.jpg": "/portfolio/static/media/jupyter.5fa7850042c41f3df814.jpg",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/SQL-ICON.png": "/portfolio/static/media/SQL-ICON.ec09dabc8b7362ac2189.png",
+    "static/media/my-notes.png": "/portfolio/static/media/my-notes.fc8d4dcbdce30ba4f94f.png",
+    "static/media/file.png": "/portfolio/static/media/file.98fe645cfb889f8174c6.png",
+    "static/media/Hexagon.svg": "/portfolio/static/media/Hexagon.a3d8c1edf7dd690feaf3.svg",
+    "static/media/mysql.svg": "/portfolio/static/media/mysql.e709ed5ee2a4bd9dbbefe040d7f436ff.svg",
+    "static/media/insta.svg": "/portfolio/static/media/insta.22bda4c250235f5d99c5c75e2537147e.svg",
+    "static/media/react.svg": "/portfolio/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/leetcode.svg": "/portfolio/static/media/leetcode.6971d830f6805a54b0a7bf5785ff6245.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.3d0b48ef132419f77dd5755d65f5018f.svg",
+    "static/media/C++-Logo.svg": "/portfolio/static/media/C++-Logo.604fcb2c7f9f6668eba1f26b4958046c.svg",
+    "static/media/python.svg": "/portfolio/static/media/python.ab5b883c7057f0d1476bf89b193c1331.svg",
+    "static/media/gihubd.svg": "/portfolio/static/media/gihubd.43154ea2bf39d0fc85d97e855caede94.svg",
+    "static/media/ol.svg": "/portfolio/static/media/ol.902d97946f70831bc216226f8b4aaa95.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/firebase-icon.svg": "/portfolio/static/media/firebase-icon.82a35fc0b90d124a8e7333989f767fd3.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
+    "static/media/materialui.svg": "/portfolio/static/media/materialui.fd510ed8518b192069590b04e2e6348a.svg",
+    "main.79396657.css.map": "/portfolio/static/css/main.79396657.css.map",
+    "main.9134b360.js.map": "/portfolio/static/js/main.9134b360.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79396657.css",
+    "static/js/main.9134b360.js"
+  ]
+}
