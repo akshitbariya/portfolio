@@ -11,7 +11,7 @@
     left: 0;
     right: 0; */
     /* opacity: 0.5; */
-    height: 50px;
+    height: 60px;
     display: flex;
     justify-content: space-between;
     color: white;
@@ -51,7 +51,7 @@
 }
 .component:hover{
     transform: scale(0.95);
-    color:rgb(217, 223, 146)
+    color:rgb(248, 134, 78)
     
 }
 
@@ -198,7 +198,7 @@ margin-top: -100px;
 .card:hover{
     transform: scale(1.05);
     color: rgb(183, 68, 68);
-  box-shadow: 0 0 5px 5px #B869C7;
+  box-shadow: 0 0 5px 5px #84adeb;
 }
 
 .icons{
@@ -247,7 +247,7 @@ margin-bottom: -130px;
     transform: scale(1.05);
     /* color: rgb(183, 68, 68); */
   
-    box-shadow: 0 0 5px 5px #B869C7;
+    box-shadow: 0 0 5px 5px #84adeb;
   cursor: pointer;
 }
 
@@ -298,7 +298,7 @@ margin-bottom: -130px;
     justify-content: center;
     border: solid;
     /* border-radius: 2cm; */
-    border-color: #B869C7;
+    border-color: #84adeb;
 
 
 
@@ -306,7 +306,7 @@ margin-bottom: -130px;
 
 .project-cards:hover {
     transform: scale(1.03);
-  box-shadow: 0 0 5px 5px #B869C7;
+  box-shadow: 0 0 5px 5px #84adeb;
   /* opacity: 0.4; */
 
 
@@ -322,7 +322,7 @@ margin-bottom: -130px;
     justify-content: center;
     border: solid;
     /* border-radius: 2cm; */
-    border-color: #B869C7;
+    border-color: #84adeb;
     display: none;
 
 }
@@ -435,7 +435,7 @@ margin-bottom: -130px;
     cursor: pointer;
     transform: scale(1.05);
     /* color: rgb(183, 68, 68); */
-  box-shadow: 0 0 5px 5px #B869C7;
+  box-shadow: 0 0 5px 5px #84adeb;
 
 }
 .resume-download-button::after{
