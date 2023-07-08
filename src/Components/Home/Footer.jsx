@@ -17,8 +17,6 @@ const Footer = () => {
           <Link to="https://github.com/akshitbariya" ><img src={github} alt="" className='footer-icon'/></Link>
           <Link to="https://leetcode.com/adb02bariya/" > <img src={leetcode} alt="" className='footer-icon'/></Link>
           <Link to="https://www.instagram.com/akshit_1703/" >  <img src={insta} alt="" className='footer-icon'/></Link>
-         
-          
         </div>
    </div>
   )
