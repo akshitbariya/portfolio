@@ -15,7 +15,7 @@ const Resume = () => {
       <div className='resume-heading'>Resume</div>
         <div className='resume-button'>
           <button className='resume-download-button'>     
-             <a href={require("../resume/Akshit_Bariya_resume.pdf")} download="Akshitkumar's Resume" className='file'>Download file</a>
+             <a href={require("../resume/Akshit_Resume.pdf")} download="Akshitkumar's Resume" className='file'>Download file</a>
         </button>
         </div>
         
